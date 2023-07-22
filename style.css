@@ -43,10 +43,10 @@ a:hover {
 }
 
 .contacts {
-  list-style-image: url(/src/img/icons/call.svg);
+  list-style-image: url(src/img/icons/call.svg);
 }
 .mail {
-  list-style-image: url(/src/img/icons/mail.svg);
+  list-style-image: url(src/img/icons/mail.svg);
   font-size: 18px;
 }
 
