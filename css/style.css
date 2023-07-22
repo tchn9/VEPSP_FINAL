@@ -1,0 +1,69 @@
+body {
+  background-color: #e7dbdb;
+  font-family: Oswald;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 300;
+}
+
+.header {
+  background-color: #006078;
+  padding: 5px 0 5px 0;
+  color: rgb(246, 246, 246);
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu-item {
+  padding-right: 30px;
+}
+
+a {
+  font-size: 16px;
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  color: rgb(117, 164, 164);
+  transition: all 0.5s;
+}
+
+.contacts {
+  list-style-image: url(/src/img/icons/call.svg);
+}
+.mail {
+  list-style-image: url(/src/img/icons/mail.svg);
+  font-size: 18px;
+}
+
+.headline {
+  width: 1140px;
+  height: 450px;
+  background-image: url(/src/img/icons/img2.png);
+  margin: auto;
+  position: relative;
+  align-items: center;
+  color: #084352;
+}
+
+.title {
+  margin: 0%;
+  position: absolute;
+  top: 420px;
+  left: 215px;
+  font-weight: 500;
+}
