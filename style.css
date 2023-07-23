@@ -81,7 +81,7 @@ a:hover {
   width: 570px;
   height: 570px;
   background-color: #aacdd6;
-  background-image: url(src/img/icons/logo_veps\ 1\ blue.svg);
+  background-image: url(/src/img/icons/logo_veps\ 1\ blue.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 80%;
@@ -93,7 +93,7 @@ a:hover {
   height: 570px;
   background-color: #88afc4;
   background-position: center;
-  background-image: url(src/img/icons/logo_veps\ 1\ blue\ history.svg);
+  background-image: url(/src/img/icons/logo_veps\ 1\ blue\ history.svg);
   background-repeat: no-repeat;
   background-size: 80%;
 }
