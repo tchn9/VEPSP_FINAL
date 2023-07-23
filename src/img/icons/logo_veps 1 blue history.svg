@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="7.6055046"
-     inkscape:cx="44.112786"
-     inkscape:cy="54.565742"
+     inkscape:cx="44.24427"
+     inkscape:cy="54.697225"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -36,26 +36,26 @@
   <g
      id="g856"
      transform="translate(-1.0518697,10.255729)"
-     style="fill:#aacdd6;fill-opacity:1">
+     style="fill:#96b8c8;fill-opacity:1">
     <path
        d="m 6.7746,29.952 12.6864,7.9268 0.18,15.6586 9.5409,-6.0757 -0.156,-15.6568 -12.7932,-7.9433 z"
        fill="white"
        id="path2"
-       style="fill:#aacdd6;fill-opacity:1" />
+       style="fill:#96b8c8;fill-opacity:1" />
     <path
        d="m 19.1234,22.0425 12.8049,7.9019 0.1595,15.6337 11.9845,7.4695 0.176,17.2692 9.3854,-6.0187 L 53.4919,46.9941 41.5061,39.5228 41.3888,23.9282 28.6809,15.9198 Z"
        fill="white"
        id="path4"
-       style="fill:#aacdd6;fill-opacity:1" />
+       style="fill:#96b8c8;fill-opacity:1" />
     <path
        d="m 44.3624,37.6522 12.0182,7.5004 0.1478,17.2871 9.4868,-6.0675 -0.1493,-17.2808 -12.0787,-7.5366 z"
        fill="white"
        id="path6"
-       style="fill:#aacdd6;fill-opacity:1" />
+       style="fill:#96b8c8;fill-opacity:1" />
     <path
        d="m 31.5741,14.0953 37.1912,23.1509 0.1443,17.2482 9.357,-6.0659 L 78.1453,31.156 41.0217,7.99457 Z"
        fill="white"
        id="path8"
-       style="fill:#aacdd6;fill-opacity:1" />
+       style="fill:#96b8c8;fill-opacity:1" />
   </g>
 </svg>
