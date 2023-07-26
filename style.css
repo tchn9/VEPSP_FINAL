@@ -7,9 +7,14 @@ body {
 }
 
 .header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
   background-color: #006078;
   padding: 5px 0 5px 0;
   color: rgb(246, 246, 246);
+  z-index: 1000;
 }
 
 .container {
@@ -121,4 +126,9 @@ a:hover {
   height: 190px;
   background-color: #d0dcdf;
   color: rgb(29, 29, 29);
+}
+
+.main {
+  flex-grow: 1;
+  padding-top: 70px;
 }
