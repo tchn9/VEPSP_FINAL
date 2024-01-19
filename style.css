@@ -132,3 +132,7 @@ a:hover {
   flex-grow: 1;
   padding-top: 70px;
 }
+
+.logo:hover {
+  transform: scale(1.1);
+}
