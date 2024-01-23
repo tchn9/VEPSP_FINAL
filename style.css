@@ -133,6 +133,12 @@ a:hover {
   padding-top: 70px;
 }
 
-.logo:hover {
+.logo-about {
+  padding-top: 20px;
+}
+
+.logo:hover,
+.logo-about:hover {
   transform: scale(1.1);
+  transition: all 0.5s;
 }
