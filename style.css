@@ -184,6 +184,9 @@ a:hover {
 }
 
 .news-blog {
+  margin: 0 auto;
+  max-width: 1140px;
+
 }
 
 .post-date {
@@ -219,7 +222,14 @@ a:hover {
   color: #084352;
 }
 
-.map-block{
+.map-block {
   padding-right: 60px;
   padding-top: 30px;
+}
+
+.partners-block {
+  width: 1140px;
+  height: 300px;
+  background-color: #a2c7db98;
+  margin: 0 auto;
 }
