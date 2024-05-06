@@ -161,7 +161,7 @@ a:hover {
   margin: auto;
   background-color: #bcced39f;
   max-width: 650px;
-  
+  margin-top: 85px;
   border-radius: 5px;
 }
 
@@ -184,9 +184,9 @@ a:hover {
 }
 
 .news-blog {
-max-width: 1140px;
-column-gap: 85px;
-margin: 0 auto;
+  max-width: 1140px;
+  margin: 0 auto;
+  margin-top: 85px;
 }
 
 .post-date {
