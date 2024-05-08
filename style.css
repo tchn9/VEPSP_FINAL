@@ -220,6 +220,7 @@ a:hover {
   font-weight: 300;
   padding-left: 60px;
   color: #084352;
+  margin-bottom: 20px;
 }
 
 .map-block {
@@ -232,4 +233,37 @@ a:hover {
   height: 300px;
   background-color: #a2c7db98;
   margin: 0 auto;
+}
+
+.vacancy-page {
+  
+  text-align: center;
+  margin: 0 auto;
+  width: 1140px;
+  background-color: #bcced39f;
+  margin-top: 85px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #0d353f;
+}
+
+
+
+.vacancy-block ul {
+  margin: 0 auto;
+  background-color: #f1e3e3ef;
+  width: 800px;
+  border: 1px solid black;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+  line-height: 30px;
+}
+
+.vacancy-block p{
+  line-height: 30px;
+}
+
+.vacancy-cart{
+  margin-top: 30px;
+  
+  
 }
