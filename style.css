@@ -204,7 +204,7 @@ a:hover {
 } */
 .contacts-page {
   width: 1140px;
-  height: 570px;
+  height: 800px;
   margin: auto;
   display: flex;
   top: 30px;
@@ -218,14 +218,19 @@ a:hover {
 .contacts-info {
   font-size: 16px;
   font-weight: 300;
-  padding-left: 60px;
+
   color: #084352;
   margin-bottom: 20px;
+  background-color: #f2f2f2d4;
+  width: 400px;
+  height: 200px;
+  border-radius: 5px;
+  margin-left: 30px;
+  text-align: center;
 }
 
 .map-block {
   padding-right: 60px;
-  padding-top: 30px;
 }
 
 .partners-block {
@@ -246,23 +251,19 @@ a:hover {
   color: #0d353f;
 }
 
-
-
 .vacancy-block ul {
   margin: 0 auto;
-  background-color: #f1e3e3ef;
+  background-color: #f2f2f2d4;
   width: 800px;
   border: 1px solid rgb(145, 141, 141);
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   line-height: 30px;
 }
 
-.vacancy-block p{
+.vacancy-block p {
   line-height: 30px;
 }
 
-.vacancy-cart{
+.vacancy-cart {
   margin-top: 30px;
-  
-  
 }
