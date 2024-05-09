@@ -236,7 +236,6 @@ a:hover {
 }
 
 .vacancy-page {
-  
   text-align: center;
   margin: 0 auto;
   width: 1140px;
@@ -253,7 +252,7 @@ a:hover {
   margin: 0 auto;
   background-color: #f1e3e3ef;
   width: 800px;
-  border: 1px solid black;
+  border: 1px solid rgb(145, 141, 141);
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   line-height: 30px;
 }
