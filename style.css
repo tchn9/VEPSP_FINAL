@@ -217,7 +217,7 @@ a:hover {
 
 .contacts-info {
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 350;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   color: #084352;
   margin-bottom: 20px;
@@ -247,7 +247,7 @@ a:hover {
   background-color: #bcced39f;
   margin-top: 85px;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 350;
   color: #0d353f;
 }
 
@@ -255,7 +255,7 @@ a:hover {
   margin: 0 auto;
   background-color: #f2f2f2d4;
   width: 800px;
-  border: 1px solid rgb(145, 141, 141);
+  /* border: 1px solid rgb(145, 141, 141); */ 
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   line-height: 30px;
 }
